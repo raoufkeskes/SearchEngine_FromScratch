@@ -28,7 +28,7 @@ It is based on a lot of generic functions using different parameters inspired by
 - Models Evaluation Platform and Reporting
 - Hyper-Parameters Tuning Platform using both split (test,train) and cross validation
 
-- **PageRank ALGORITHM** 
+- **PageRank Algorithm** 
 
 
 
