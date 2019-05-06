@@ -17,17 +17,18 @@ It is based on a lot of generic functions using different parameters inspired by
   3. Okapi-BM25 
 
 - Evaluation Metrics :
-⋅⋅1. Precision
-..2. Recall
-..3. F-measure
-⋅⋅4. Average Precision ( AvgP )
-..5. Mean Average Precision ( MAP )
-..6. Mean Reciprocal Rank ( MRR )
-..7. Normalized Discounted cumulative gain ( NDCG )
+  1. Precision
+  2. Recall
+  3. F-measure
+  4. Average Precision ( AvgP )
+  5. Mean Average Precision ( MAP )
+  6. Mean Reciprocal Rank ( MRR )
+  7. Normalized Discounted cumulative gain ( NDCG )
 
 - Models Evaluation Platform and Reporting
 - Hyper-Parameters Tuning Platform using both split (test,train) and cross validation
-- PageRank ALgorithm 
+
+- **PageRank ALGORITHM** 
 
 
 
