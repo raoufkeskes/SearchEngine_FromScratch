@@ -26,7 +26,7 @@ It is based on a lot of generic functions using different parameters inspired by
   7. Normalized Discounted cumulative gain ( NDCG )
 
 - Models Evaluation Platform and Reporting
-- Hyper-Parameters Tuning Platform using both split (test,train) and cross validation
+- Hyper-Parameters Tuning Platform using both split (test,train) and cross validation to tune our IR Models
 
 - **PageRank Algorithm** 
 
