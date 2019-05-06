@@ -12,9 +12,9 @@ It is based on a lot of generic functions using different parameters inspired by
 - Indexing ( normal index , inverted index )
 - Weighters ( 5 different types of ponderations applied on document , query and term )
 - Models : 
-⋅⋅1. Vectorial
-..2. Language model
-..3. Okapi-BM25 
+  1. Vectorial
+  2. Language model
+  3. Okapi-BM25 
 
 - Evaluation Metrics :
 ⋅⋅1. Precision
