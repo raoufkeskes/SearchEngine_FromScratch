@@ -1,0 +1,24 @@
+.I A
+.X
+B 0 0
+C 0 0
+.T
+hello world   algebra algebra algebra algebra algebra
+
+.I B
+.X
+C 0 0
+.T
+Hello WORLD hello world discovering discovery Discover
+
+.I C
+.X
+A 0 0 
+.T
+hello world hello world hello world line line
+
+.I D
+.X
+C 0 0
+.T
+hello world hello world hello world hello world
