@@ -5,7 +5,7 @@ The project aims to understand how a search engine works and implement it from s
 
 It is based on a lot of generic functions using different parameters inspired by scikit-learn functions signature .
 
-## Implemented Functionalities 
+### Implemented Functionalities 
 
 - Documents Data Parser ( Simple | Regex ) 
 - Queries Data Parser
