@@ -1,4 +1,4 @@
-# SearchEngine_FromScratch
+# Building a search engine from scratch
 
 An information retrieval project given by [**"Laure Soulier"**](http://www-connex.lip6.fr/~soulier/content/about.html) who's actually an Assistant professor at Sorbonne University , Faculty of Sciences , Paris 6  
 The project aims to understand how a search engine works and implement it from scratch using OOP paradigm for modularity , reusability and clarity
