@@ -1,6 +1,6 @@
 # Building a search engine from scratch
 
-An information retrieval project given by [**"Laure Soulier"**](http://www-connex.lip6.fr/~soulier/content/about.html) who's actually an Assistant professor at Sorbonne University , Faculty of Sciences , Paris 6  
+An information retrieval project given by [**"Laure Soulier"**](http://www-connex.lip6.fr/~soulier/content/about.html) who's actually an Assistant professor at Sorbonne University specialized in Information Retrieval 
 The project aims to understand how a search engine works and implement it from scratch using OOP paradigm for modularity , reusability and clarity
 
 It is based on a lot of generic functions using different parameters inspired by scikit-learn functions signature .
