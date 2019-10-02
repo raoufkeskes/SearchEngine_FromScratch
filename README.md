@@ -31,9 +31,6 @@ It is based on a lot of generic functions using different parameters inspired by
 - **PageRank Algorithm** 
 
 
-
-
-
-
-
-
+## License
+May,2019
+[MIT license](http://opensource.org/licenses/MIT).
